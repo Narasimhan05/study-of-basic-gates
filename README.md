@@ -1,4 +1,3 @@
-### study-of-basic-gates
 
 **AIM:** 
 
@@ -62,18 +61,26 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+### PROGRAM
+![Screenshot 2024-03-08 205318](https://github.com/Narasimhan05/study-of-basic-gates/assets/132819871/3f846067-cc31-49d7-9c72-a778ebc85ed1)
 
+ 
+## Truthtable
+![Screenshot 2024-03-08 224841](https://github.com/Narasimhan05/study-of-basic-gates/assets/132819871/7ade980f-2359-4b66-b62c-57964dab86f5)
+
+
+### RTL realization Output:
+![Screenshot 2024-03-08 205500](https://github.com/Narasimhan05/study-of-basic-gates/assets/132819871/a8be3fe0-e098-465e-9d0c-2cde5f29cdec)
+
+
+ ### Output
+![Screenshot 2024-03-08 205857](https://github.com/Narasimhan05/study-of-basic-gates/assets/132819871/282c1b22-dd8c-4b0f-900d-c489bbc12915)
+
+
+### Result:
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
 
-**RTL realization Output:** 
-
-**RTL**
-
-**Result:**
+ Developed by: RegisterNumber: 212223230133
 
 
